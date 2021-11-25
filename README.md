@@ -79,7 +79,7 @@ Infector is a python3 based script which is officially made for linux based dist
 * `apt-get upgrade -y`
 * `pkg install python -y`
 * `pkg install git -y`
-* `git clone https://github.com/T-Dynamos/Infector`
+* `git clone https://github.com/Monsterlallu/Infector`
 * `cd $HOME`
 * `ls`
 * `cd Infector`

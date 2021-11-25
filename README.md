@@ -10,7 +10,7 @@
 
 <p align="center">
 
-<img src="https://github.com/T-Dynamos/T-Dynamos/raw/main/bin/IMG_20211011_213734.png"/>
+<img src="https://github.com/Monsterlallu/T-Dynamos/raw/main/bin/IMG_20211011_213734.png"/>
 
 
 
